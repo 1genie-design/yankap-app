@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Yankap",
+    "slug": "yankap-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "backgroundColor": "#1DBAA3"
+    },
+    "scheme": "yankap",
+    "plugins": ["expo-router"]
+  }
+}
